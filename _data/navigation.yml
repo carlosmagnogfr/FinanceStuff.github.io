@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Binomial Tree"
     url: /binomial-tree/
+  -title: "Data Science"
+    url: /datascience/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
