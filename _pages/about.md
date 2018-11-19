@@ -5,8 +5,8 @@ header:
   image: "/images/finance_2.jpg"
 ---
 Description...
-
 Finance Posts.
+
 {% include base_path %}
 {% include group-by-array collection=site.portfolio field="tags" %}
 
