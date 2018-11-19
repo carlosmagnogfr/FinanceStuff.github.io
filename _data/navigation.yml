@@ -1,6 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "About"
+    url: /about/
+  - title: "Binomial Tree"
+    url: /binomial-tree
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
