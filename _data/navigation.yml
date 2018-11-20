@@ -2,12 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Binomial Tree novo"
-    url: /binomial-tree/
-  - title: "Data Science"
-    url: /datascience/
-  - title: "Data Science2"
-    url: /datascience/
+  - title: "Artigos"
+    url: /artigos/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
