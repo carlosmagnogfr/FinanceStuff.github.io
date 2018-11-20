@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Finance Stuff Site"
+title                    : "Finance Stuff"
 title_separator          : "-"
-name                     : "Carlos"
+name                     : "Finance"
 description              : "Finance Stuff"
 url                      : "https://carlosmagnogfr.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/carlosmagnogfr.github.io" #"/FinanceStuff.github.io" # the subpath of your site, e.g. "/blog"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Repositório"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Description."
+  bio              : "Artigos Relacionados a Finanças"
   location         : "Brasil"
   email            :
   links:
