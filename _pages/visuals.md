@@ -9,6 +9,7 @@ header:
 
 ---
 Artigos por data.
+
 {% include base_path %}
 {% include group-by-array collection=site.portfolio field="tags" %}
 
