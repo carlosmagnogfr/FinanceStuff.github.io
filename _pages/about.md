@@ -2,7 +2,6 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/finance_2.jpg"
+  #image: "/images/finance_2.jpg"
 ---
-Description...
-Finance Posts.
+Repositório de artigos relacionados a finanças com códigos em Python.
